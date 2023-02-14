@@ -1,0 +1,15 @@
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\bin\Debug\net7.0\das_parlament.exe
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\bin\Debug\net7.0\das_parlament.deps.json
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\bin\Debug\net7.0\das_parlament.runtimeconfig.json
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\bin\Debug\net7.0\das_parlament.dll
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\bin\Debug\net7.0\das_parlament.pdb
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.csproj.AssemblyReference.cache
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.AssemblyInfoInputs.cache
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.AssemblyInfo.cs
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.csproj.CoreCompileInputs.cache
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.dll
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\refint\das_parlament.dll
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.pdb
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\das_parlament.genruntimeconfig.cache
+C:\Users\Luca\RiderProjects\das_parlament\das_parlament\obj\Debug\net7.0\ref\das_parlament.dll
